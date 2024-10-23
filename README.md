@@ -1,4 +1,4 @@
-# GDB
+# Debugging using GDB and objdump in userspace and kernel space
 GDB
 
 
