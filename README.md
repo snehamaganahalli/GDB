@@ -64,7 +64,7 @@ We get the information of PC, LR, SP, and all the registers value as highlighted
 [346002.678832] r3 : 00000000  r2 : 8efd6400  r1 : 8e5d0a00  r0 : 9a218688**\
 [346002.685171] Flags: NzCv  IRQs on  FIQs on  Mode SVC_32  ISA ARM  Segment user\
 [346002.691767] Control: 10c0383d  Table: 9764406a  DAC: 00000055\
-****[346002.699060] Process ip_daemon_process (pid: 16106, stack limit = 0x79bcdda6)\****
+**[346002.699060] Process ip_daemon_process (pid: 16106, stack limit = 0x79bcdda6)**\
 [346002.704874] Stack: (0xb4953e68 to 0xb4954000)\
 [346002.711038] 3e60:                   9a2186a0 9a218688 a68b7740 000003fd 36df07c8 42613754\
 [346002.715554] 3e80: 9a218688 00000400 00000000 000003fd 36df07c8 4225c1ec 0000000c 00000000\
