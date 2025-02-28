@@ -17,7 +17,7 @@ GDB
 **How to debug a kernel module using GDB**
 
 1) Get the debug version of the kernel module. (compiled with -g -DDEBUG)
-2) gdb
+2) gdb <vmlinux.elf or xyz.ko (unstripped version)>
 3) list *(function_name+offset) // It will show the line number.
 
 Note: There is a "gdb-multiarch" which can be used for all the different processor architectures (Eg: ARM/X86/MIPS/SPARC/RISC-V)
